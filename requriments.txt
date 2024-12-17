@@ -1,0 +1,4 @@
+azure-ai-formrecognizer>=3.2.0
+azure-core>=1.26.0
+pandas>=1.3.0
+matplotlib>=3.4.0

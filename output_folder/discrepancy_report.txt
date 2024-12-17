@@ -1,0 +1,131 @@
+Bank Statement Discrepancy Report
+==============================
+
+File: 9.pdf
+Starting Balance: $1,014.91
+Total Transactions: $682,234.38
+Expected Ending Balance: $683,249.29
+Actual Ending Balance: $722.69
+Variance: $-682,526.60
+------------------------------
+
+File: 16.pdf
+Starting Balance: $2,147.79
+Total Transactions: $1,164,511.44
+Expected Ending Balance: $1,166,659.23
+Actual Ending Balance: $17,998.79
+Variance: $-1,148,660.44
+------------------------------
+
+File: 17.pdf
+Starting Balance: $2,151,018,435.00
+Total Transactions: $110,295.08
+Expected Ending Balance: $2,151,128,730.08
+Actual Ending Balance: $0.00
+Variance: $-2,151,128,730.08
+------------------------------
+
+File: 15.pdf
+Starting Balance: $23,990.32
+Total Transactions: $273,758.46
+Expected Ending Balance: $297,748.78
+Actual Ending Balance: $0.00
+Variance: $-297,748.78
+------------------------------
+
+File: 14.pdf
+Starting Balance: $657.85
+Total Transactions: $69.00
+Expected Ending Balance: $726.85
+Actual Ending Balance: $10.88
+Variance: $-715.97
+------------------------------
+
+File: 10.pdf
+Starting Balance: $13,577,058.00
+Total Transactions: $4,135,123.81
+Expected Ending Balance: $17,712,181.81
+Actual Ending Balance: $-105.65
+Variance: $-17,712,287.46
+------------------------------
+
+File: 11.pdf
+Starting Balance: $2,106.85
+Total Transactions: $36,012.93
+Expected Ending Balance: $38,119.78
+Actual Ending Balance: $2,028.08
+Variance: $-36,091.70
+------------------------------
+
+File: 13.pdf
+Starting Balance: $0.00
+Total Transactions: $162,547.74
+Expected Ending Balance: $162,547.74
+Actual Ending Balance: $3,000.00
+Variance: $-159,547.74
+------------------------------
+
+File: 12.pdf
+Starting Balance: $0.00
+Total Transactions: $107,710.85
+Expected Ending Balance: $107,710.85
+Actual Ending Balance: $0.00
+Variance: $-107,710.85
+------------------------------
+
+File: 20.pdf
+Starting Balance: $26,747.62
+Total Transactions: $2,542,771.35
+Expected Ending Balance: $2,569,518.97
+Actual Ending Balance: $0.00
+Variance: $-2,569,518.97
+------------------------------
+
+File: 19.pdf
+Starting Balance: $5.00
+Total Transactions: $177,511.18
+Expected Ending Balance: $177,516.18
+Actual Ending Balance: $5.00
+Variance: $-177,511.18
+------------------------------
+
+File: 18.pdf
+Starting Balance: $6,481.83
+Total Transactions: $78,739.48
+Expected Ending Balance: $85,221.31
+Actual Ending Balance: $18,115.33
+Variance: $-67,105.98
+------------------------------
+
+File: 5.pdf
+Starting Balance: $402.72
+Total Transactions: $218.56
+Expected Ending Balance: $621.28
+Actual Ending Balance: $-9.78
+Variance: $-631.06
+------------------------------
+
+File: 4.pdf
+Starting Balance: $440.88
+Total Transactions: $251,129.40
+Expected Ending Balance: $251,570.28
+Actual Ending Balance: $0.00
+Variance: $-251,570.28
+------------------------------
+
+File: 1.pdf
+Starting Balance: $55,925.68
+Total Transactions: $0.00
+Expected Ending Balance: $55,925.68
+Actual Ending Balance: $3,107.41
+Variance: $-52,818.27
+------------------------------
+
+File: 3.pdf
+Starting Balance: $45,923.58
+Total Transactions: $9,533,775.99
+Expected Ending Balance: $9,579,699.57
+Actual Ending Balance: $18,702.73
+Variance: $-9,560,996.84
+------------------------------
+
